@@ -68,3 +68,5 @@ Contributions to the calculator project are welcome. If you find any issues or h
 ## Deployed site
 
 Deployed site <a href="https://inongoy.github.io/Calculator/">here</a>.
+
+Enjoy calculating!
